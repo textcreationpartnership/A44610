@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact model, or platform of good magistracy, or, A sermon preached before the governour, council and assembly at the first meeting at Saint Jago de la Vega in Jamaica, Feb. 1, 1671 by Henry Houser.</title>
+            <author>Houser, Henry, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44610</idno>
+            <idno type="STC">Wing H2946</idno>
+            <idno type="STC">ESTC R28697</idno>
+            <idno type="EEBO-CITATION">10741393</idno>
+            <idno type="OCLC">ocm 10741393</idno>
+            <idno type="VID">45606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1404:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact model, or platform of good magistracy, or, A sermon preached before the governour, council and assembly at the first meeting at Saint Jago de la Vega in Jamaica, Feb. 1, 1671 by Henry Houser.</title>
+                  <author>Houser, Henry, d. 1683.</author>
+               </titleStmt>
+               <extent>[3], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Governors --  Jamaica --  17th century.</term>
+               <term>Jamaica --  Politics and government. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45606:1"/>
+            <pb facs="tcp:45606:1"/>
+            <p>AN EXACT MODEL OR PLATFORM OF GOOD Magiſtracy: OR A SERMON Preached before the Governour, Council, and Aſſembly, at their firſt Meeting at Saint <hi>Jago de la Vega,</hi> in <hi>Jamaica, Feb.</hi> 1. 1671.</p>
+            <p>By <hi>Henry Houſer,</hi> Miniſter of Gods Word in St. <hi>Katharines</hi> Pariſh.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 82.6, 7.</hi>
+               </bibl>
+               <p>I have ſaid, ye are Gods, and all of you are Children of the moſt High; but ye ſhall die like men.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Tyton,</hi> at the Sign of the Three <hi>Daggers</hi> in <hi>Fleet-Street.</hi> 1673.</p>
+            <pb facs="tcp:45606:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45606:2"/>
+            <head>To the Right Honourable Sir <hi>Thomas Lynch,</hi> Governour and Commander in Chief of his Majeſties Iſland of <hi>Jamaica,</hi> &amp;c. As likewiſe, to his Honourable Councel, and Gentle<g ref="char:EOLhyphen"/>men of the Aſſembly, continuance of all Grace, and Peace, through Jeſus Chriſt.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was far from my Thoughts, as being conſcious of my own private Weakneſs. that this: poor Sermon ſhould gain ſuch Accept<g ref="char:EOLhyphen"/>ance with you, as to judge it worthy either of your Thanks, or of publick View: But ſeeing your Pleaſure is to Order the Publiſhing of it, I do humbly Obey. And there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:45606:3"/>take the boldneſs to Offer and Conſecrate the ſame even to you, who are the Head and the Re<g ref="char:EOLhyphen"/>preſentatives of this whole Land, and have com<g ref="char:EOLhyphen"/>manded both the Preaching and Printing of it: Yea, and it is my Duty which Obliges me to make you this thankful Acknowledgments for the many ſingular Favours and Courteſies, particularly that of your laſt Liberal Bounty and Kindneſs be<g ref="char:EOLhyphen"/>ſtowed and faſtned upon me; ſo that I muſt ſay as <hi>Ruth</hi> ſaid once to <hi>Boaz,</hi> Chap. <hi>11.10. Why have I found grace in your Eyes, that you ſhould take knowledg of me, ſeeing I am a Stranger.</hi> Verily I can aſcribe and impute it to no other cauſe; but unto Gods infinite Mercy, and your own Goodneſs. The great God of Heaven, who is King of Kings, and Lord of Lords, ſo direct your Hearts, that all and every one of you may truly, and indeed (according to <hi>Jethro</hi>'s Counſel) approve your ſelves to be Men of Abili<g ref="char:EOLhyphen"/>ty, fearing God, men of Truth, hating Covetouſ<g ref="char:EOLhyphen"/>neſs: That you may truly and indeed (according to the Power God hath intruſted you withal) oppoſe the violent ſtream of all Lewdneſs, and Wicked<g ref="char:EOLhyphen"/>neſs, and Prophanneſs, and be a lively Example to the Practiſe of Piety, of Holineſs and Godli<g ref="char:EOLhyphen"/>neſs: Yea, that you may have both the Caurage and Zeal of <hi>Moſes,</hi> to Defend and Protect the true Religion and Worſhip of God, againſt all Oppoſers thereof. And this the Lord expects at your Hands, in regard of the depth of your Inter<g ref="char:EOLhyphen"/>eſts:
+<pb facs="tcp:45606:3"/>You are more concerned in the Publick wel<g ref="char:EOLhyphen"/>fare of this Iſland, than others of a more private Station, and therefore you are bound to ſeek and to promote the Good and Welfare of this Iſland, more than others. It is a Maxime in Divinity, <hi>Beneficium poſtulat officium;</hi> Thoſe whom God calls to the Higheſt places, he calls withal to the Higheſt ſervices: Therefore it behoveth you above all things to remove all Impediments which might hinder the Advancement of the Glory of God, the Flouriſhing of the Goſpel, and the Hap<g ref="char:EOLhyphen"/>pineſs and Proſperity of this Iſland. If this be your chief Study and Care, then certainly the God of Heaven will be with you, and bleſs you in all your Doings, in all your Conſulations: Then indeed, this great Keeper of <hi>Iſrael</hi> will keep and preſerve you in all your Wayes, both in your going forth, and in your coming in, from this time forth and for evermore.</p>
+            <closer>
+               <hi>And this is the daily Prayer of</hi> 
+               <signed>your humbly Devoted Servant, H. H.</signed>
+            </closer>
+            <pb facs="tcp:45606:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:45606:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EXOD. 18.21.</hi>
+                  </bibl>
+                  <p>Moreover thou ſhalt provide out of all the people able men, ſuch as fear God, men of truth, hating covetouſneſs.</p>
+               </q>
+            </epigraph>
+            <p>
+               <note place="margin">Exordium.</note> 
+               <seg rend="decorInit">G</seg>Reat Conjunctions of Heavenly Bodies are uſually attended with great and notable Changes. Beloved! I hope that your pre<g ref="char:EOLhyphen"/>ſent Conjunction will operate and conduce much to the happineſs and welfare of this Iſland. To the obtain<g ref="char:EOLhyphen"/>ing whereof it is moſt neceſſary that you eſpecially (who are the Repreſentatives of this whole Land) would ſtudy to approve
+<pb n="2" facs="tcp:45606:5"/>your ſelves (according to the direction of <hi>Jethro</hi> unto <hi>Moſes</hi>) to be Men of Ability. fearing God, Men of Truth, hating Co<g ref="char:EOLhyphen"/>vetouſneſs. This <hi>Jethro</hi> was Father in Law to <hi>Moſes,</hi> who ſeeing and obſerving the great Care, and Trouble, and Pains, that <hi>Moſes</hi> took in Judging the People, wiſely foreſaw that at length it would prove a thing too heavy for him alone to perform: and except he did ſpeedily remedy it, it would not be long ere it would utterly con<g ref="char:EOLhyphen"/>ſume his ſpirits, and wear away his ſtrength, and health, and life, in taking upon himſelf alone all the care and trouble of giving Judgment among the people from morning untill evening. Therefore to prevent all inconveniency, <hi>Jethro</hi> by his ſage and wiſe advice, counſelleth <hi>Moſes</hi> to take unto him ſuch fit and meet Aſſiſtants, who by their juſt government of the people might eaſe him of that heavy burthen, and help him to bear the ſame with more comfort and eaſe. And this counſel of <hi>Jethro</hi> is expreſſed in the words of the Text, ſaying, <hi>Moreover thou ſhalt provide out of all the people able men, ſuch as fear God, men of truth, hating covetouſ<g ref="char:EOLhyphen"/>neſs.</hi> Here is the firſt draught of Magi<g ref="char:EOLhyphen"/>ſtracy, which <hi>Moſes</hi> himſelf (the greateſt Law-giver that ever was) followed and pra<g ref="char:EOLhyphen"/>ctiſed with good ſucceſs; and therefore I
+<pb n="3" facs="tcp:45606:5"/>have choſen it at this time for my Text, to ſhew and declare unto you eſpecially, who are upon this day come and Aſſembled to<g ref="char:EOLhyphen"/>gether for the Good and Welfare of this Iſland, how to perform your Duty, and to Diſcharge your Truſt with a good Con<g ref="char:EOLhyphen"/>ſcience, that you would be pleaſed to ſet before your Eyes, this moſt perfect Mo<g ref="char:EOLhyphen"/>del and Platform of the beſt Magiſtracy in the Text, and according thereunto Exact and Direct all your Conſultations to the Glory of the great Judge of Heaven and Earth, the Advancement of the Church, and the Happineſs and Proſperity of this Iſland. And all this grant He who is the great Monarch in Heaven and Earth for Je<g ref="char:EOLhyphen"/>ſus Chriſt his ſake.</p>
+            <p>The Parts of the Text are two:</p>
+            <list>
+               <item>I. The Counſel of <hi>Jethro,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> which he gives to <hi>Moſes;</hi> in theſe words, <hi>Thou ſhalt provide.</hi>
+               </item>
+               <item>II. This Counſel is Deſcribed and Parti<g ref="char:EOLhyphen"/>culariſed by four Eſſential Characters,<note place="margin">
+                     <hi>Mem<g ref="char:EOLhyphen"/>brum</hi> I.</note> or Properties of good Magiſtrates: They ought to be,
+<list>
+                     <item>1. <hi>Able Men.</hi>
+                     </item>
+                     <item>2. <hi>Such as fear God.</hi>
+                     </item>
+                     <item>3. <hi>Men of Truth.</hi>
+                     </item>
+                     <item>4. <hi>Hating Cove<g ref="char:EOLhyphen"/>touſneſs.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:45606:6"/>
+            <p>I begin with the Frſt, <hi>viz.</hi> The Counſel of <hi>Jethro</hi> which he gives to <hi>Moſes;</hi> in theſe words of the Text, <hi>Moreover thou ſhalt pro<g ref="char:EOLhyphen"/>vide.</hi> The word in the Original <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> im<g ref="char:EOLhyphen"/>ports great <hi>Care,</hi> and <hi>Curioſity,</hi> and <hi>Circom<g ref="char:EOLhyphen"/>ſpection,</hi> that is to be made in the choice or election of Superiours and Magiſtrates. In the New Teſtament we have the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Look ye out,</hi> Acts 4.3, It is add<g ref="char:EOLhyphen"/>ed in the Text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Out of the People;</hi> the Magiſtrate muſt be choſen out of all the People, he muſt be a choice Man, one of a thouſand, culled and ſelected out of all the People: <hi>Moreover thou ſhalt provide out of all the People.</hi> This is the firſt part of the Text.</p>
+            <p>In the ſecond,<note place="margin">Mem<g ref="char:EOLhyphen"/>brum <hi>II.</hi>
+               </note> it followeth to be conſider<g ref="char:EOLhyphen"/>ed how this Counſel is deſcribed, and parti<g ref="char:EOLhyphen"/>cularized by ſour eſſential Characters, or Properties of good Magiſtrates:<note place="margin">Requiſita ad pium Magistra<g ref="char:EOLhyphen"/>tum perti<g ref="char:EOLhyphen"/>nentia.</note> They muſt be.
+<list>
+                  <item>1. <hi>Able Men.</hi>
+                  </item>
+                  <item>2. <hi>Such as fear God.</hi>
+                  </item>
+                  <item>3. <hi>Men of Lruth.</hi>
+                  </item>
+                  <item>4. <hi>Hating Covetouſneſs.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I.<note place="margin">
+                  <hi>I.</hi> Virtus &amp; Potentia.</note> The prime and firſt Character then re<g ref="char:EOLhyphen"/>quired in good Superiours and Magiſtrates is <hi>Ability;</hi> they muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Vire po<g ref="char:EOLhyphen"/>tentes.</hi> Able men. This Ability includeth ſtrength of body, whereby they are enabled
+<pb n="5" facs="tcp:45606:6"/>to undergo and execute their Places and Offices with the more diligence and induſtry. It includeth greatneſs of Eſtate and De<g ref="char:EOLhyphen"/>ſcent, of Riches and Wealth, of Birth and Blood, which oftentimes puts Spirit and Courage into the Souls of Superiours and Magiſtrates. Theſe are but accidental and complemental Ingredients belonging to Su<g ref="char:EOLhyphen"/>periours and Magiſtrates: The main and eſſential parts, that are comprehended un<g ref="char:EOLhyphen"/>der the word <hi>Ability,</hi> are following; <hi>a.</hi> Un<g ref="char:EOLhyphen"/>derſtanding and Wiſdom: Therefore <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> prayed to God for an <hi>underſtanding heart,</hi> 1 <hi>Reg.</hi> 3.4. <hi>Give thy Servant an underſtanding heart to judge thy People, that I may diſcern between good and bad. b.</hi> Another ſubſtan<g ref="char:EOLhyphen"/>tial thing comprized under the word <hi>Ability,</hi> is moderation of Mind, which enables him to Rule and Govern his Paſſion and Affe<g ref="char:EOLhyphen"/>ction: A thing very neceſſary in a Magi<g ref="char:EOLhyphen"/>ſtrate, who muſt not ſuffer his Judgment to be over-ruled and overſwayed by his Paſſion.</p>
+            <q>
+               <l>Fortior qui ſeſe, quam qui fortiſſima vincit</l>
+               <l>Moenia—</l>
+            </q>
+            <p>Such an one is ſtronger then he that ſubdues and conquers the ſtrong Cittadel. <hi>c.</hi> The laſt and principal Virtue comprehended un<g ref="char:EOLhyphen"/>der
+<pb n="6" facs="tcp:45606:7"/>the word <hi>Ability,</hi> is Courage and For<g ref="char:EOLhyphen"/>titude; as the Lord charged <hi>Joſhua,</hi> Chap. 1.9. <hi>Be ſtrong and of good courage, be not afra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, neither be thou diſmayed, for the Lord thy God is with thee whitherſoever thou goeſt.</hi> Oh what Courage and Heroical Spirit and Reſolution ought he to be endued withal, that muſt Encounter and Oppoſe the violent Torrent of Wickedneſs and Vice? You are Met and Aſſembled together, to begin and to perform a great work among us; to Advance the Glory of God, to Counte<g ref="char:EOLhyphen"/>nance the Goſpel, and the true Profeſſors thereof, and to reform all that is amiſs; and therefore you have need of Courage. You muſt confute the Sins of the mighty; you muſt ſupport the work of the Mini<g ref="char:EOLhyphen"/>ſtrie againſt all Oppoſers of Gods true Reli<g ref="char:EOLhyphen"/>gion and Worſhip, eſpecially againſt thoſe proud <hi>Phanatick</hi> Emiſſaries, who under pre<g ref="char:EOLhyphen"/>tence of New Diſcoveries, and New Re<g ref="char:EOLhyphen"/>velations of the Spirit wander from place to place, from one Quarter of this Iſland to another, and in oppoſition to the true Light of the Goſpel cry out New Light, New Light; whereby they Seduce, Deceive, and Delude the Hearts of the Poor, Simple, and Ignorant People; and therefore you have need of Courage. You muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a living Law, and be an Ex<g ref="char:EOLhyphen"/>ample
+<pb n="7" facs="tcp:45606:7"/>to all Good; and therefore you have need of Courage. You muſt help the Poor to their right, you muſt defend the Widdow and the Fath<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rleſs, againſt them that are too mighty for them; and therefore you have need of courage. Therefore awake and put on courage, you that ſit at the Helm and Covern the Ship of our <hi>Commonwealth,</hi> ſteer a ſtraight and right courſe without ſwarving to the Right or Left Hand for fear or favour. Neglect and diſpiſe the Diſpleaſure and Frowns of Great men, and Reſcue the Poor out of the Hands of the Oppreſſ our. Therefore be ſtrong in the Lord, faint not, be not weary of well do<g ref="char:EOLhyphen"/>ing, but be couragious, though in Rowing and Guiding the Ship of our <hi>Commonwealth,</hi> the Winds blow, and the Seas rage, Chriſt Jeſus by his Divine Providence and Pro<g ref="char:EOLhyphen"/>tection, will ſupport and uphold it, that it ſhall not Sink, he will ſend a calm and bring it ſafely aſhore. Wherefore let me pro<g ref="char:EOLhyphen"/>claim and ſpeak as <hi>Gideon</hi> in the Ears of all the Faint-hearted, <hi>Judg.</hi> 7.3. <hi>Whoſoever is fearful and afraid, let him return Home and depart.</hi> On the other ſide I ſay unto you that are of Ability, of Wiſdom and Cou<g ref="char:EOLhyphen"/>rage, as the Angel did to <hi>Gideon,</hi> Judg. 6. 12, 14. <hi>The Lord is with thee, thou mighty Man of Valour; go on in this thy might to ſave</hi> Iſrael:
+<pb n="8" facs="tcp:45606:8"/>
+               <hi>Prooceed and go on from ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gth to ſtrength.</hi> And ſo much of the firſt Character of good Superiours and Magiſtrates, they ought to be men of Abilitie.</p>
+            <p n="2">II.<note place="margin">
+                  <hi>II.</hi> T<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r Domini.</note> The next Character of them, from whence all the reſt proceed, is the Fear of God; they muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Timentes Deum,</hi> Fearing God: They muſt be ſuch as fear God, not ſlaviſhly with a ſervile ſear, but truly, ſincerely, with a filial fear wrought in them by Faith, and the aſſurance of Gods Love and Favour. He that hath this Virtue wants none, and without this true fear of Juſtice, a Receiver of Falſe-Witneſſes, a Patron of Violence and Op<g ref="char:EOLhyphen"/>preſſion? The principal ſcope and intent why God hath appointed and ordained Supe<g ref="char:EOLhyphen"/>riours and Magiſtrates to Rule and Govern the World, is that they may advance his Glory, countenance the true Riligion and Worſhip of God, and protect the <hi>Church</hi> and <hi>Commonwealth:</hi> Now for theſe things what cares a prophane and uncircumciſed Vice-god, who fears not God, who bears the Sword in vain, and minds nothing elſe here on Earth but his own Profit and Plea<g ref="char:EOLhyphen"/>ſure? As for the <hi>Church</hi> or <hi>Commonwealth,</hi> Sink they, Swim they, all is one to him. So that it is certain, that the fear of God is
+<pb n="9" facs="tcp:45606:8"/>the chiefeſt thing required in a good Magi<g ref="char:EOLhyphen"/>ſtrate, who is the Miniſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of God, and his Sword bearer; nay, it is the whoſe Duty of man, as <hi>Solomon</hi> ſpeaks, <hi>Eccleſ.</hi> 2.13. <hi>Fear God and keep his Commandments, for this is the whole duty of Man</hi> Hence it was that the Lord commanded the King, <hi>Deut.</hi> 17.18, 19. <hi>To write a Copy of the Law in a Book, and to Read therein all the dayes of his Life; that he may Learn to Fear the Lord his God, and to keep his commandments, and to do them.</hi> A Magiſtrate, in whom God hath planted his holy Fear, he will Judge others as one that remembers he muſt be Judged himſelf; he will help the Orphans to their Right, and defend the cauſe of the Widdow: He is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no Reſpecter of Perſons; He will neither condemn the Innocent, nor juſtifie the Wicked: He will ſet a watch over his Eyes, that they behold no wrong, over his Ears that they hear no falſe Ac<g ref="char:EOLhyphen"/>cuſation, over his Tongue that it pronounce no unjuſt Sentence, over his Hands that they receive no Bribe. When an unlawful Suit is commenced by Favour or Friendſhip, by Power or Policy, he anſwers with <hi>Job,</hi> Chap. 31.14. <hi>What ſhall I do when God riſeth up? And when he viſiteth what ſhall I anſwer him?</hi> This, this is the man that feareth the Lord. By this Character, now it will
+<pb n="10" facs="tcp:45606:9"/>appear what to think of thoſe many pro<g ref="char:EOLhyphen"/>phane and wicked Vice-gods, who ſell themſelves to work wickedneſs in the ſight of the Lord; who give themſelves to all Good Fellowſhip in the world, to all exceſs of Riot, and hate to be Reformed:</p>
+            <q>
+               <l>—Stat pro ratione volunta.</l>
+            </q>
+            <p>Their Will is their Law, and their Conſci<g ref="char:EOLhyphen"/>ence too. Such I mean as hold Religion a diſparagement to Gallantry and Gentility, who fear nothing more then to have a Name that they fear God; who think when they have gotten an Office, they may Swear by Authority, Oppreſs by Licenſe, Drink and Swill without Controul. What ſhall I ſay of ſuch? Are theſe <hi>Gods, or Children of the moſt High?</hi> Devils they are rather than De<g ref="char:EOLhyphen"/>puties for him; far better becoming a pro<g ref="char:EOLhyphen"/>phane and drunken Alehouſe, than a grave and ſober Aſſembly. Let me take up the words of the Prophet <hi>Jeremiah,</hi> and ſay to ſuch prophane <hi>Eſaus,</hi> Chap. 5.22. <hi>Fear ye not me? Saith the Lord: Will ye not tremble at my preſence, which have placed the Sand for the bounds of the Sea, by a perpetual Decree that it cannot paſs?</hi> If the wrath of a King be as the roaring of a Lion, as <hi>Solomon</hi> affirms, <hi>Prov.</hi> 20.2. O then how terrible is the
+<pb n="11" facs="tcp:45606:9"/>wrath of God, who is King of Kings, and Lord of Lords? He himſelf will be one day a ſwift witneſs againſt ſuch, <hi>Mal.</hi> 3.5. <hi>I will be a ſwift Witneſs againſt the Sorcerers, and againſt the Adulterers, and againſt falſe Swear<g ref="char:EOLhyphen"/>ers, and againſt thoſe that Oppreſs the Hireling in his Wages, the Widdow, and the Fatherleſs, and that turn away the Stranger from his Right, and fear not me, ſaith the Lord of Hoſts.</hi> Men commonly are afraid of Goals, and Dun<g ref="char:EOLhyphen"/>geons, and Gibbets, and this makes them abſtain from Murder, Felony, and the like: And why then will ye not rather fear him, who is able to caſt both Soul and Body into the everlaſting Dungeon of Hell-fire, where there is weeping, and wailing, and gnaſh<g ref="char:EOLhyphen"/>ing of Teeth? Him I ſay Fear. I conclude this Point in the words of the Pſalmiſt, <hi>Pſal.</hi> 2.10, 11, 12. <hi>Be Wiſe now, O ye Kings; be In<g ref="char:EOLhyphen"/>ſtructed, ye Judges of the Earth: Serve the Lord with Fear, and rejoyce with Trembling. Kiſs the Son, leſt he be Angry, and ye Periſh from the Way, when his Wrath is kindled but a little.</hi>
+            </p>
+            <p n="3">III.<note place="margin">III. Amer Veritatis.</note> And ſo I come to the third Cha<g ref="char:EOLhyphen"/>racter of good Superiours and Magiſtrates; they muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Viri veritatis,</hi> Men of Truth. This is required in every Ma<g ref="char:EOLhyphen"/>giſtrate, in all thoſe that are imployed in
+<pb n="12" facs="tcp:45606:10"/>the Commonwealth, they muſt be good men and true, they muſt be, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Lovers of the Truth:</hi> They muſt ſearch out the truth out of the labyrinths of Errour and Falſe<g ref="char:EOLhyphen"/>hood, and not ſuffer Juſtice to be pervert<g ref="char:EOLhyphen"/>ed, but bring Judgment to the Balance of Truth and Righteouſneſs. They muſt be of his Temper who ſaid, <hi>Amicus Plato, Ami<g ref="char:EOLhyphen"/>cus Socrates, magis autem amica Veritas: Plato</hi> is my Friend, <hi>Socrates</hi> is my Friend, but Truth is my greateſt Friend. Oh that our Rulers and Magiſtrates might truly ſay with <hi>Job,</hi> Chap. 29.14, 15. <hi>I put on Righteouſneſs, and it Clothed me: My Judgment was as a Robe and a Diadem. I was Eyes to the Blind, and Feet was I to the Lame: I was a Father to the Poor, and the Cauſe which I knew not, I ſearched out.</hi> Alas, may not the Lord complain at this day, as he did in the days of <hi>Jeremiah,</hi> Chap. 5.1. <hi>Run ye to and fro through the Streets of Jeruſalem, and ſee now, and know, and ſeek in the Broad places thereof, if ye can find a man, if there be any that executeth Judg<g ref="char:EOLhyphen"/>ment, that ſeeketh the Truth, and I will pardon it.</hi> And <hi>Iſaiah</hi> 59.14. <hi>Judgment is turned away backward, and Juſtice ſtandeth a far off; for Truth is fallen in the Street, and Equity can<g ref="char:EOLhyphen"/>not enter.</hi> Therefore (O ye Rulers of the Earth) ſtudy to be men of Truth; ſuffer not your ſelves to be corrupted by flattering
+<pb n="13" facs="tcp:45606:10"/>Tongues, but maintain the Truth againſt all oppoſitions of the world: Let this be your Reſolution with the Prophet <hi>David Pſal.</hi> 101.7. <hi>He that worketh Deceit ſhall not dwell within my Houſe; he that telleth Lies, ſhall not tarry in my ſight.</hi> Though you muſt under<g ref="char:EOLhyphen"/>go Hatred and croſſes, and Scorn, and Re<g ref="char:EOLhyphen"/>proach for a time, for the Truths ſake; yet he that is <hi>Amen,</hi> the true Witneſs, yea Truth it ſelf; will certainly reward you in the end, with Temporal and Spiritual Bleſ<g ref="char:EOLhyphen"/>ſings: While on the other ſide, he will ſhut out with the Dogs all ſuch as love and make Lies, according to that fearful Threatning, <hi>Apoc.</hi> 22.15. <hi>Without the Heavenly</hi> Jeruſalem <hi>are Dogs and Sorcerers, and Whoremongers, and Murtherers, and Idolaters, and whoſoever makes a Lie.</hi> I cloſe up this Point with the Exhor<g ref="char:EOLhyphen"/>tation of <hi>Solomon,</hi> Prov. 23.23. <hi>Buy the Truth, and ſell it not.</hi>
+            </p>
+            <p n="4">IV. And this leads me to the Fourth and laſt Character required in Good Superiours and Magiſtrates, they muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Ab<g ref="char:EOLhyphen"/>horzentes avaritiam,</hi> hating Covetouſneſs, they muſt be ſuch as hate Covetouſneſs, which is the root of all Evil, 1 <hi>Tim.</hi> 6.10. Covetouſneſs is an inordinate love of mo<g ref="char:EOLhyphen"/>ney, and is compared to the Dropſie, <hi>Quo plus ſunt potae, plus ſitiuntur aquae;</hi> The more
+<pb n="14" facs="tcp:45606:11"/>they have, the more they will have. Oh! that we might not complain at this day of many Superiours and Magiſtrates. <hi>Jer.</hi> 6. <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>For the leaſt of them, even unto the greateſt of them, every one is given to Covetouſneſs.</hi> There<g ref="char:EOLhyphen"/>fore, O. ye Rulers of the world, flee theſe things and hate Covetouſneſs with a perfect Heart: Follow the counſel of the Apoſtle, <hi>Heb.</hi> 13.5. <hi>Let your Conve ſation be without Co<g ref="char:EOLhyphen"/>vetouſneſs, and be content with ſuch things as ye have; for he hath ſaid, I will never leave thee nor forſake thee.</hi> Let the words of the Lord be written and engraven over your Doors, <hi>Deut.</hi> 16.19. <hi>Thou ſhalt not wreſt Judgment, thou ſhalt not reſpect Perſons, neither take a Gift, for a Gift doth blind the Eyes of the Wiſe, and pervert the words of the Righteous.</hi> Let all ſordid and filthy Lucre be abominable, all ill gotten Goods execrable: Remember that the curſe of God goeth along with unlawful and unrighteous Gains, and is like moth and Ruſt, to corrupt and canker them: <hi>Malè parta, malè dilabuntur,</hi> Goods unjuſtly got<g ref="char:EOLhyphen"/>ten thrive not, a man ſhall not long enjoy them: <hi>Vix gaudet tertius haeres.</hi> It is a ven<g ref="char:EOLhyphen"/>ture, but ſome Unthrifty Heir will waſte and melt it away as faſt, and as ill as ever his Father got it. See the words of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>James</hi> 5.2, 3, 4. <hi>Your Riches are cor<g ref="char:EOLhyphen"/>rupted, and your Garments are moth eaten, your
+<pb n="15" facs="tcp:45606:11"/>Gold and Silver is cankered, and the Ruſt of them ſhall be a witneſs againſt you, and ſhall eat your fleſh as it were Fire: Ye have heaped Treaſure together for the laſt days: Behold the Hire of the Labourers, which have Reaped down your Fields, which is of you kept back by Fraud, crieth, and the Cries of them which have Reaped, are entred into the Ears of the Lord of Sabboth.</hi> Theſe are the four cardinal virtues of good Superi<g ref="char:EOLhyphen"/>ours and Magiſtrates, they ought to be men of Ability, fearing God, men of Truth, hating Covetouſneſs.</p>
+            <p>Hearken then,<note place="margin">Application.</note> O ye Mountains and little Hills, you Gentlemen of this preſent Aſſem<g ref="char:EOLhyphen"/>bly, liſten to this charge of <hi>Jethro</hi> in the Text, approving your Selves to be men of Ability, ſuch as fear God, men of Truth, hating Covetouſneſs. Put on courage to help the Poor and Needy, to defend the Widdow and the Fatherleſs, and to neglect the Frowns of great Ones: Fear God, ſet him always before your Eyes, and be a living Example to Holineſs and Godlineſs: Study to be men of Truth, and ſet not a good countenance upon a bad cauſe: And laſtly, hate Covetouſneſs with a perfect Heart, and eſteem Godlineſs the greateſt gain. Plead for Chriſt, and he will plead for you, that ſo every one of you may appear at the Tribunal
+<pb n="16" facs="tcp:45606:12"/>of God with joy and comfort, and receive that ſweet Sentence, <hi>Mat.</hi> 25.2. <hi>Well done thou good and faithful Servant, thou haſt been faithful over a few things, I will make thee Ruler over many things: Enter thou into the joy of the Lord.</hi> And verily it is now high time, you ſhould earneſtly Study, and Practiſe this ex<g ref="char:EOLhyphen"/>cellent Leſſon in the Text, <hi>To be Men of Abi<g ref="char:EOLhyphen"/>lity, ſuch as fear God, Men of Truth, hating Covetouſneſs;</hi> eſpecially in conſideration of the abundance and continual increaſe of Sin in this Land. How doth every Street ring with Curſing, and Swearing, and Prophane<g ref="char:EOLhyphen"/>neſs? How little conſcience do men make of this day, to live in open Filthineſs, and La<g ref="char:EOLhyphen"/>civiouſneſs of the Fleſh? The Miniſter may Teach and Preach what he will, and Threa<g ref="char:EOLhyphen"/>ten as long as he liſt, yet the Gallants of our time, like <hi>Galio</hi> in the <hi>Acts of the Apoſtles,</hi> they care for none of theſe things. We are fallen into thoſe Times, where Prophanneſs and Licenciouſneſs, have generally prevai<g ref="char:EOLhyphen"/>led every where: Sin is grown to ſuch an height, as if the <hi>Word</hi> of <hi>God</hi> were but a Scare crow, and all Religion but a Fable: we are brought to this woſul paſs, to mock and ſcoff at Holineſs, and Godlineſs, at Piety and Religion, as if God were neither to be fear'd, nor cared for. Truly wicked<g ref="char:EOLhyphen"/>neſs raigns in every ſtate, in every condition,
+<pb n="17" facs="tcp:45606:12"/>in every place: And now even at this time, as if we would defie God to his Face, and call upon him to haſten his Judgments upon our Land, upon our Families and Perſons, eve<g ref="char:EOLhyphen"/>ry one ſtrives (as it were) who ſhall out<g ref="char:EOLhyphen"/>dare him moſt in our Atheiſm, Libertiniſm and Prophanneſs, in all Riot and Exceſs, in Im<g ref="char:EOLhyphen"/>penitency. Oh that ſome <hi>Jehoſaphat</hi> would viſit and Reform! Oh that you eſpecially, who are the Head of the Principal members of this Iſland, would Redreſs ſome part of theſe Grievances, leſt Sin and Wickedneſs get the upper hand, and cauſe our Ruine! And this the Lord expects at your hands, in regard of thoſe many ſingular Favours, and Divine Bleſſings beſtowed upon us even in this Land: We have had Peace within our Walls, and Plenteouſneſs within our Dwel<g ref="char:EOLhyphen"/>lings, while Thouſands of our Brethren and Neighbours, were ſmitten with Gods mani<g ref="char:EOLhyphen"/>fold Judgments and Plagues: The Lord ſpared us, and kept us ſafe even to this day, Defeating and bringing to naught all miſ<g ref="char:EOLhyphen"/>chievous Plots and Policies of our Enemies againſt us. Oh then, give thanks unto the Lord, becauſe he is Good, and his Mercy en<g ref="char:EOLhyphen"/>dures for ever: Let the Houſe of <hi>Levi</hi> ſay, <hi>his Mercy endures for ever:</hi> Let the Houſe of <hi>Judah</hi> ſay, <hi>his Mercy endures for ever:</hi> Let our Fields and Plantations ſay, it is his mercy that
+<pb n="18" facs="tcp:45606:13"/>we be not all ſpoiled: Let our Towns and Dwelling-Houſes ſay, it is his Mercy that we be not all Burnt: Let our Churches ſay, it is his Mercy that we be not all raſed; yea, let this whole Iſland ſay, it is his Mercy that Fire, and Sword, and Peſtilence, and other Miſeries and Calamities did not Prey upon me, as upon others. O Lord, who is a God like unto thee, thus to Bear, thus to Spare, thus to Bleſs? Had not thy Mercies exceed<g ref="char:EOLhyphen"/>ed all Limits, our ſins ere this had ſunk us all, our Iſland had been made a ſecond <hi>Sodom</hi> and <hi>Gomorrhe!</hi> Oh that yet, yet we all of this Church, of this Land, would meet the Lord with Faſting, and Weeping, and mourn<g ref="char:EOLhyphen"/>ing, and make our Peace and Reconciliation with him, while Peace is to be had! Oh that you eſpecially, who are now met and Aſſembled together for the Good and Wel<g ref="char:EOLhyphen"/>fare of this Iſland, would begin now, even now by wholeſome Laws and Ordinances, to beat down Sin and Wickedneſs, and Re<g ref="char:EOLhyphen"/>form and Amend all that is amiſs! For this is the only way to keep our Iſland from mourning and miſery, and to prevent the De<g ref="char:EOLhyphen"/>ſolation and final Deſtruction of it: And this will be Done and Accompliſhed, when you ſhall truly and really Study and Practiſe this profitable Leſſon in the Text, <hi>To be Men of Ability, ſuch as fear God, Men of Truth, hating
+<pb n="19" facs="tcp:45606:13"/>Covetouſneſs:</hi> Then indeed may you expect a Bleſſing upon all your Conſultations: Then as the Prophet <hi>Amos</hi> ſpeaks, chap. 5.24. <hi>Shall Judgment run down as Waters, and Righ<g ref="char:EOLhyphen"/>teouſneſs as a mighty Stream.</hi> Then ſhall you, and we, and every one: of us be able to go Home in Peace, ſit down under our Vines and Figtrees, follow our Callings, and that which is the chiefeſt of all, lead a Quiet and Peace<g ref="char:EOLhyphen"/>able life in all Honeſty and Godlineſs: Then ſhall the Earth increaſe, all People ſhall praiſe God, and God even our God, ſhall Bleſs us, and all the ends of the Earth ſhall fear him. Oh bleſſed be the Lord God of <hi>Iſrael,</hi> who only doth wondrous things; and bleſſed be his glorious Name for ever and ever, and let all the Earth be filled with his Glory. <hi>Amen. Amen.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:45606:14"/>
+            <head>A CATALOGUE OF BOOKS.</head>
+            <p>THere is newly Printed, a Book Inti<g ref="char:EOLhyphen"/>tuled, <hi>The Worm that Dieth not, or Hell Torments in the Certainty, and Eternity of them:</hi> Plainly diſcover<g ref="char:EOLhyphen"/>ed in ſeveral Sermons, Preached on <hi>Mark</hi> 9.48. by that Painful and Laborious Mini<g ref="char:EOLhyphen"/>ſter of the Goſpel <hi>William Strong,</hi> Publiſhed by D. <hi>Thomas Manton,</hi> and Mr. <hi>John Rowe,</hi> Miniſter of Gods Word, in 12<hi rend="sup">o</hi>.</p>
+            <p>Alſo a Book intituled, <hi>Heavenly-Minded<g ref="char:EOLhyphen"/>neſs,
+<pb facs="tcp:45606:14"/>and Earthly-Mindedneſs,</hi> in two Parts; with an <hi>Appendix concerning laying hold on E<g ref="char:EOLhyphen"/>ternal Life,</hi> by <hi>J. Rowe,</hi> Miniſter of Gods Word, in Octavo.</p>
+            <p>Alſo newly Reprinted, <hi>Divine Arithma<g ref="char:EOLhyphen"/>tick;</hi> or, <hi>The right Art of Numbering our Days,</hi> by <hi>S. Patrick,</hi> D. D. in Octavo.</p>
+            <p>Alſo newly Reprinted, <hi>Chriſts Power over Bodily Diſeaſes,</hi> Preached in ſeveral Ser<g ref="char:EOLhyphen"/>mons on <hi>Matth.</hi> 8.5.6, 7, 8, 9, 10, 11, 12, 13, <hi>verſes,</hi> and Publiſhed for the Inſtruction eſpecially of the more Ignorant People, in the great Duty of Preparation for Sickneſs and Death, by <hi>Edward Laurance,</hi> Miniſter of Gods Word.</p>
+            <p>There will be Publiſhed within a moneth, a Book Intituled, <hi>The Fountain of Life open<g ref="char:EOLhyphen"/>ed, or a Diſplay of Chriſt in his</hi> Eſſential <hi>and</hi> Mediatorial <hi>Glory.</hi> Wherein the <hi>Impetration</hi> of our Redemption by Jeſus Chriſt, is order<g ref="char:EOLhyphen"/>ly and <hi>unfolded,</hi> as it was begun, carried on, and finiſhed by his <hi>Covenant Tranſactions,</hi> myſterious <hi>Incarnation,</hi> ſolemn <hi>Call</hi> and <hi>De<g ref="char:EOLhyphen"/>dication,</hi> bleſſed <hi>Offices,</hi> deep <hi>Abaſement,</hi> and ſupereminent <hi>Advancement:</hi> In all, which the great <hi>Supernatural Myſteries</hi> of the <hi>Wiſdom</hi> and <hi>Love</hi> of God in his moſt gracious, Plenary, and wonderful Salvation of Sinners by <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> is diſtinctly <hi>Explicated,</hi> and in its ſeveral Parts, as well as generally <hi>Applied,</hi>
+               <pb facs="tcp:45606:15"/>for the winning of <hi>Unbelievers</hi> to him, and Confirmation of all that do Believe in him, by <hi>John-Flavel,</hi> Preacher of the Goſpel of Jeſus Chriſt at <hi>Dartmouth,</hi> in <hi>Devon.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45606:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
